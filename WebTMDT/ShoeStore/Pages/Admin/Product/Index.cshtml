@@ -1,0 +1,49 @@
+﻿@page
+@model ShoeStore.Pages.Admin.Product.IndexModel
+@{
+	Layout = null;
+	ViewData["Title"] = "Product list";
+}
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+<br />
+<h2> Product list</h2>
+<div style="margin-bottom:50px">
+	<a style="color:white;padding:4px 4px;text-decoration:none;background-color: green; border-radius: 4px" href="/Admin/Product/Create">Create product</a>
+</div>
+<table class="table">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Thumbnail</th>
+			<th>Name</th>
+			<th>Price</th>
+			<th>Quantity</th>
+			<th>Color</th>
+			<th>Category</th>
+			<th>Size</th>
+		</tr>
+	</thead>
+	@foreach (var item in Model.productList)
+	{
+		<tr>
+			<td style="padding:12px 15px;">@item.Id</td>
+			<td style="padding:12px 15px;">@item.Thumbnail</td>
+			<td style="padding:12px 15px;">@item.Name</td>
+			<td style="padding:12px 15px;">@item.Price đ</td>
+			<td style="padding:12px 15px;">@item.Quantity</td>
+			<td style="padding:12px 15px;">@item.Color</td>
+			<td style="padding:12px 15px;">@item.Category</td>
+			<td style="padding:12px 15px;">@item.Size</td>
+			<td style="padding:12px 15px;">
+				<a style="padding:4px 4px;text-decoration:none;background-color: aqua; border-radius: 4px" href="/Admin/Product/Update?Id=@item.Id">Edit</a>
+				<a style="margin-left:6px;padding:4px 4px;text-decoration:none;background-color: red; border-radius: 4px" href="/Admin/Product/Delete?Id=@item.Id">Delete</a>
+			</td>
+
+		</tr>
+	}
+</table>
+
+
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

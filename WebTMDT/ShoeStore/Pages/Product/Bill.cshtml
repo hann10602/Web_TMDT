@@ -1,0 +1,56 @@
+﻿@page
+@using System.Data.SqlClient;
+@{
+    try
+    {
+        string productId = Request.Query["id"];
+        int quantity = int.Parse(Request.Query["quantity"]);
+        int userId = 0;
+        string connectionString = "Data Source=DESKTOP-J61PUVN;Initial Catalog=WebTMDT;Integrated Security=True";
+        using (SqlConnection connection = new SqlConnection(connectionString))
+        {
+            connection.Open();
+            string sql = "SELECT * FROM login WHERE id = 1";
+            using (SqlCommand command = new SqlCommand(sql, connection))
+            {
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        userId = reader.GetInt32(1);
+                    }
+                }
+            }
+
+            sql = "INSERT INTO bill" +
+            "(id, user_id, product_id, status, quantity) VALUES" +
+            "(@id, @userId, @productId, 0, 1);";
+            using (SqlCommand command = new SqlCommand(sql, connection))
+            {
+                Guid originalGuid = Guid.NewGuid();
+                byte[] bytes = originalGuid.ToByteArray();
+                int id = BitConverter.ToInt32(bytes, 0);
+                command.Parameters.AddWithValue("@id", id);
+                command.Parameters.AddWithValue("@userId", userId);
+                command.Parameters.AddWithValue("@productId", productId);
+                command.ExecuteNonQuery();
+            }
+
+            sql = "UPDATE products " +
+            "SET quantity = @quantity WHERE id = @id";
+            using (SqlCommand command = new SqlCommand(sql, connection))
+            {
+                command.Parameters.AddWithValue("@id", productId);
+                command.Parameters.AddWithValue("@quantity", quantity -= 1);
+                command.ExecuteNonQuery();
+            }
+        }
+    }
+    catch (Exception ex)
+    {
+        Console.WriteLine(ex.Message);
+        throw;
+    }
+
+    Response.Redirect("/");
+}

@@ -1,0 +1,31 @@
+﻿@page
+@model ShoeStore.Pages.Product.IndexModel
+@{
+}
+
+<div class="container" style="padding:50px 0">
+    <div style="display:flex;justify-content:between">
+        <img src="@Model.productDTO.Thumbnail" alt="@Model.productDTO.Name" />
+        <div style="flex: 1 1 0%;padding:20px 60px; background-color:lightgrey;margin-left:50px;border-radius:20px">
+            <h1>@Model.productDTO.Name</h1>
+            <div style="display:flex">
+                <div>
+                    <p>Color:</p>
+                    <p>Size:</p>
+                    <p>Quantity:</p>
+                </div>
+                <div style="padding:0 20px">
+                    <p>@Model.productDTO.Color</p>
+                    <p>@Model.productDTO.Size</p>
+                    <p>@Model.productDTO.Quantity</p>
+                </div>
+            </div>
+            <h3>@Model.productDTO.Price đ</h3>
+            <div style="width:100%;display:flex;justify-content:center;margin-top:40px">
+                <a style="line-height:30px;width:200px;height:40px;font-weight:500;text-align:center;color:black;padding:4px 4px;text-decoration:none;background-color: lightgreen; border-radius: 4px" href="/product/bill?id=@Model.productDTO.Id&quantity=@Model.productDTO.Quantity">Mua</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+

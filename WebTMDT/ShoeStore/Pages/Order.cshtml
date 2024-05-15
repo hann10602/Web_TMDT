@@ -1,0 +1,43 @@
+﻿@page
+@model ShoeStore.Pages.OrderModel
+@{
+}
+
+<div class="container" style="padding:40px 0">
+    <h1>@Model.fullname</h1>
+	<table class="table">
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Product id</th>
+				<th>Status</th>
+				<th>Quantity</th>
+				<th>Pay</th>
+			</tr>
+		</thead>
+		@foreach (var item in Model.billList)
+		{
+			<tr>
+				<td style="padding:12px 15px;">@item.Id</td>
+				<td style="padding:12px 15px;">@item.ProductName</td>
+				<td style="padding:12px 15px;">
+					@if(item.Status == 0)
+					{
+						<span style="background-color:red;color:white;text-align:center;padding:2px 8px;border-radius:20px">Process</span>
+					}
+					else
+					{
+						<span style="background-color:green;color:white;text-align:center;padding:2px 8px;border-radius:20px">Completed</span>
+					}
+				</td>
+				<td style="padding:12px 15px;">@item.Quantity</td>
+				<td style="padding:12px 15px;">
+					@if (item.Status == 0)
+					{
+						<a style="padding:4px 4px;text-decoration:none;background-color: aqua; border-radius: 4px" href="/Admin/Product/Update?Id=@item.Id">Thanh toán</a>
+					}
+				</td>
+			</tr>
+		}
+	</table>
+</div>

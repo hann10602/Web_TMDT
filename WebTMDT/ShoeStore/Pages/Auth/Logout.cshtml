@@ -1,0 +1,23 @@
+﻿@page
+@using System.Data.SqlClient;
+@{
+	try
+	{
+		string connectionString = "Data Source=DESKTOP-J61PUVN;Initial Catalog=WebTMDT;Integrated Security=True";
+		using (SqlConnection connection = new SqlConnection(connectionString))
+		{
+			connection.Open();
+			string sql = "UPDATE login SET user_id = 0, active = 0 WHERE id=1";
+			using (SqlCommand command = new SqlCommand(sql, connection))
+			{
+				command.ExecuteNonQuery();
+			}
+		}
+	}
+	catch (Exception ex)
+	{
+		Console.WriteLine(ex.ToString());
+		throw;
+	}
+	Response.Redirect("/");
+}
