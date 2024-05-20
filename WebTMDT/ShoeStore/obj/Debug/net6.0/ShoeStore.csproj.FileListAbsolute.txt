@@ -117,3 +117,43 @@ D:\Downloads\VS Code community\DoAn\shoe-store\WebTMDT\ShoeStore\obj\Debug\net6.
 D:\Downloads\VS Code community\DoAn\shoe-store\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.pdb
 D:\Downloads\VS Code community\DoAn\shoe-store\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.genruntimeconfig.cache
 D:\Downloads\VS Code community\DoAn\shoe-store\WebTMDT\ShoeStore\obj\Debug\net6.0\ref\ShoeStore.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\appsettings.Development.json
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\appsettings.json
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\ShoeStore.staticwebassets.runtime.json
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\ShoeStore.exe
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\ShoeStore.deps.json
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\ShoeStore.runtimeconfig.json
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\ShoeStore.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\ShoeStore.pdb
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.AssemblyReference.cache
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfoInputs.cache
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.AssemblyInfo.cs
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.CoreCompileInputs.cache
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.MvcApplicationPartsAssemblyInfo.cache
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.RazorAssemblyInfo.cache
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.RazorAssemblyInfo.cs
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.sourcelink.json
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\staticwebassets.build.json
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\staticwebassets.development.json
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\staticwebassets\msbuild.ShoeStore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\staticwebassets\msbuild.build.ShoeStore.props
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShoeStore.props
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShoeStore.props
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\staticwebassets.pack.json
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\scopedcss\Pages\Admin\Shared\_AdminLayout.cshtml.rz.scp.css
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\scopedcss\bundle\ShoeStore.styles.css
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\scopedcss\projectbundle\ShoeStore.bundle.scp.css
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.csproj.Up2Date
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\refint\ShoeStore.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.pdb
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.genruntimeconfig.cache
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ref\ShoeStore.dll

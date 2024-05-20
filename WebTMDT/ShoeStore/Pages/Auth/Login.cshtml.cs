@@ -25,7 +25,7 @@ namespace ShoeStore.Pages.Auth
                     return;
                 }
 
-                string connectionString = "Data Source=DESKTOP-J61PUVN;Initial Catalog=WebTMDT;Integrated Security=True";
+                string connectionString = @"Data Source=ALLIGATOR\ALLIGATOR;Initial Catalog=WebTMDT;Persist Security Info=True;User ID=sa; Password=123456;";
                 using (SqlConnection connection = new SqlConnection(connectionString))
                 {
 

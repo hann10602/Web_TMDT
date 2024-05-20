@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\ShoeStore.csproj": {}
+    "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\ShoeStore.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\ShoeStore.csproj": {
+    "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\ShoeStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\ShoeStore.csproj",
+        "projectUniqueName": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\ShoeStore.csproj",
         "projectName": "ShoeStore",
-        "projectPath": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\ShoeStore.csproj",
-        "packagesPath": "C:\\Users\\toan\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\obj\\",
+        "projectPath": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\ShoeStore.csproj",
+        "packagesPath": "C:\\Users\\quoc1\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\toan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\quoc1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
