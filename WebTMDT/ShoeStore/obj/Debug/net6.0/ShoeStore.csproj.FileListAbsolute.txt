@@ -157,3 +157,13 @@ E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\refint\ShoeStore.dll
 E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.pdb
 E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ShoeStore.genruntimeconfig.cache
 E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\obj\Debug\net6.0\ref\ShoeStore.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\CurrieTechnologies.Razor.SweetAlert2.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\source\repo\Web_TMDT\WebTMDT\ShoeStore\bin\Debug\net6.0\System.IO.Pipelines.dll

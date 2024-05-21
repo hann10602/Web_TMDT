@@ -1,10 +1,10 @@
 ﻿@page
 @using System.Data.SqlClient;
+@using ShoeStore.DB
 @{
 	try
 	{
-		string connectionString = @"Data Source=ALLIGATOR\ALLIGATOR;Initial Catalog=WebTMDT;Persist Security Info=True;User ID=sa; Password=123456;";
-		using (SqlConnection connection = new SqlConnection(connectionString))
+		using (SqlConnection connection = ShopDBContext.GetSqlConnection())
 		{
 			connection.Open();
 			string sql = "UPDATE login SET user_id = 0, active = 0 WHERE id=1";

@@ -1,5 +1,6 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using ShoeStore.DB;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 
@@ -7,10 +8,12 @@ namespace ShoeStore.Pages.Auth
 {
     public class LoginModel : PageModel
     {
-        public string errorMessage = "";
+        public string SuccessMessage { get; set; }
+        public string ErrorMessage { get; set; }
         public int userId = 0;
         public string username;
         public string password;
+
         public void OnPost()
         {
             try
@@ -18,21 +21,20 @@ namespace ShoeStore.Pages.Auth
                 username = Request.Form["username"];
                 password = Request.Form["password"];
 
-                if (string.IsNullOrEmpty(username)
-                || string.IsNullOrEmpty(password))
+                if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
                 {
-                    errorMessage = "All fields are required!!!";
+                    ErrorMessage = "All fields are required!!!";
                     return;
                 }
 
-                string connectionString = @"Data Source=ALLIGATOR\ALLIGATOR;Initial Catalog=WebTMDT;Persist Security Info=True;User ID=sa; Password=123456;";
-                using (SqlConnection connection = new SqlConnection(connectionString))
+                using (SqlConnection connection = ShopDBContext.GetSqlConnection())
                 {
-
                     connection.Open();
-                    string sql = "SELECT  * FROM users WHERE username = '" + username +"' AND password = '" + password + "'";
+                    string sql = "SELECT * FROM users WHERE username = @username AND password = @password";
                     using (SqlCommand command = new SqlCommand(sql, connection))
                     {
+                        command.Parameters.AddWithValue("@username", username);
+                        command.Parameters.AddWithValue("@password", password);
                         using (SqlDataReader reader = command.ExecuteReader())
                         {
                             while (reader.Read())
@@ -42,7 +44,7 @@ namespace ShoeStore.Pages.Auth
                         }
                     }
 
-                    if(userId != 0)
+                    if (userId != 0)
                     {
                         sql = "UPDATE login SET user_id = @userId, active = 1 WHERE id = 1";
                         using (SqlCommand command = new SqlCommand(sql, connection))
@@ -55,16 +57,18 @@ namespace ShoeStore.Pages.Auth
             }
             catch (Exception ex)
             {
+                ErrorMessage = "An error occurred while processing your request.";
                 Console.WriteLine(ex.ToString());
-                throw;
+                return;
             }
 
             if (userId == 0)
             {
-                Response.Redirect("/auth/login");
+                ErrorMessage = "Invalid username or password.";
             }
             else
             {
+                SuccessMessage = "Login successful!";
                 Response.Redirect("/");
             }
         }

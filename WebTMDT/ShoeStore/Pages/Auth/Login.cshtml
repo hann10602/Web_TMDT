@@ -11,21 +11,46 @@
                     <h3 style="font-weight:700">Login</h1>
                 </div>
                 <div class="row mb-3">
-                    <input type="text" name="username" placeholder="Username">
+                    <input type="text" name="username" class="form-control" placeholder="Username">
                 </div>
                 <div class="row mb-3">
-                    <input type="password" name="password" placeholder="Password">
+                    <input type="password" name="password" class="form-control" placeholder="Password">
                 </div>
                 <div class="row mb-3">
-                    <input type="submit" class="fadeIn fourth" value="Log In">
+                    <input type="submit" class="btn btn-primary btn-block" value="Log In">
                 </div>
                 <div style="width:100%;text-align:center">
-                    <a class="underlineHover" href="/auth/register">Register</a>
+                    <a class="text-primary" href="/auth/register">Register</a>
                 </div>
             </form>
         </div>
-
-        <!-- Remind Passowrd -->
-
     </div>
 </div>
+
+
+<!-- Thêm SweetAlert CDN -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<!-- Script để hiển thị popup -->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const successMessage = '@Model.SuccessMessage';
+        const errorMessage = '@Model.ErrorMessage';
+
+        if (successMessage) {
+            Swal.fire({
+                icon: 'success',
+                title: 'Success',
+                text: successMessage,
+            });
+        }
+
+        if (errorMessage) {
+            Swal.fire({
+                icon: 'error',
+                title: 'Error',
+                text: errorMessage,
+            });
+        }
+    });
+</script>
