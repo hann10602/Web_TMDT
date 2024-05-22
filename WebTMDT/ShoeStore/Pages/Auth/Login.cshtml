@@ -1,6 +1,7 @@
 ﻿@page
 @model ShoeStore.Pages.Auth.LoginModel
 @{
+    ViewData["Title"] = "Log in";
 }
 
 <div class="wrapper fadeInDown">
@@ -8,7 +9,7 @@
         <div style="width:100%;display:flex;justify-content:center;padding:40px 0">
             <form method="post" style="border:solid black 1px;width:400px;border-radius:20px;padding:0 40px">
                 <div style="width:100%;text-align:center">
-                    <h3 style="font-weight:700">Login</h1>
+                    <h3 style="font-weight:700">Login</h3>
                 </div>
                 <div class="row mb-3">
                     <input type="text" name="username" class="form-control" placeholder="Username">
@@ -33,7 +34,7 @@
 
 <!-- Script để hiển thị popup -->
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener('DOMContentLoaded', function () {
         const successMessage = '@Model.SuccessMessage';
         const errorMessage = '@Model.ErrorMessage';
 

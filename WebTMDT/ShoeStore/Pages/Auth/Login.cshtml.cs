@@ -52,6 +52,12 @@ namespace ShoeStore.Pages.Auth
                             command.Parameters.AddWithValue("@userId", userId);
                             command.ExecuteNonQuery();
                         }
+                        SuccessMessage = "Login successful!";
+                        Response.Redirect("/");
+                    }
+                    else
+                    {
+                        ErrorMessage = "Invalid username or password.";
                     }
                 }
             }
@@ -59,17 +65,6 @@ namespace ShoeStore.Pages.Auth
             {
                 ErrorMessage = "An error occurred while processing your request.";
                 Console.WriteLine(ex.ToString());
-                return;
-            }
-
-            if (userId == 0)
-            {
-                ErrorMessage = "Invalid username or password.";
-            }
-            else
-            {
-                SuccessMessage = "Login successful!";
-                Response.Redirect("/");
             }
         }
     }

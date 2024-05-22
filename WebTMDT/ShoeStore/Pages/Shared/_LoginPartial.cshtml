@@ -1,0 +1,75 @@
+﻿@using ShoeStore.DB
+@using System.Data.SqlClient
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    int userId = 0;
+    using (SqlConnection connection = ShopDBContext.GetSqlConnection())
+    {
+        connection.Open();
+        string sql = "SELECT user_id FROM login WHERE id = 1";
+        using (SqlCommand command = new SqlCommand(sql, connection))
+        {
+            using (SqlDataReader reader = command.ExecuteReader())
+            {
+                while (reader.Read())
+                {
+                    userId = reader.GetInt32(0);
+                }
+            }
+        }
+    }
+}
+
+<style>
+    .navbar-nav {
+        display: flex;
+        align-items: center;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+        .navbar-nav li {
+            margin-right: 20px;
+        }
+
+            .navbar-nav li:last-child {
+                margin-right: 0;
+            }
+
+        .navbar-nav a {
+            color: #333;
+            text-decoration: none;
+            font-size: 16px;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+            .navbar-nav a:hover {
+                color: #007bff;
+            }
+</style>
+
+<ul class="navbar-nav">
+    @if (userId != 0)
+    {
+        <li class="nav-item">
+            <a class="nav-link" href="/order">Order detail</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/auth/logout">Logout</a>
+        </li>
+    }
+    else
+    {
+        <li class="nav-item">
+            <a class="nav-link" href="/auth/login">Login</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/auth/register">Register</a>
+        </li>
+    }
+</ul>
+
