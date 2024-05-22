@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using ShoeStore.DB;
 using System.Data.SqlClient;
 using System.Drawing;
 
@@ -17,8 +18,7 @@ namespace ShoeStore.Pages.Admin.Product
         {
 			try
 			{
-				string connectionString = "Data Source=DESKTOP-J61PUVN;Initial Catalog=WebTMDT;Integrated Security=True";
-				using (SqlConnection connection = new SqlConnection(connectionString))
+				using (SqlConnection connection = ShopDBContext.GetSqlConnection())
 				{
 					connection.Open();
 					string sql = "SELECT * FROM login";

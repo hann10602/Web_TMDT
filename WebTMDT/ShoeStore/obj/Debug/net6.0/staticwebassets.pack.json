@@ -1,307 +1,307 @@
 {
   "Files": [
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoeStore.bundle.scp.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoeStore.bundle.scp.css",
       "PackagePath": "staticwebassets\\ShoeStore.bundle.scp.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\css\\site.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\favicon.ico",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\js\\site.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\balenciaga-triple-s-black-41.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\balenciaga-triple-s-black-41.png",
       "PackagePath": "staticwebassets\\static\\image\\balenciaga-triple-s-black-41.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\converse-classic-black-40.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\converse-classic-black-40.png",
       "PackagePath": "staticwebassets\\static\\image\\converse-classic-black-40.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\crown-space-black-13.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\crown-space-black-13.png",
       "PackagePath": "staticwebassets\\static\\image\\crown-space-black-13.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\fila-ray-flide-white-12.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\fila-ray-flide-white-12.png",
       "PackagePath": "staticwebassets\\static\\image\\fila-ray-flide-white-12.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\head-image.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\head-image.png",
       "PackagePath": "staticwebassets\\static\\image\\head-image.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\jordan-air-force-1-blue-39.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\jordan-air-force-1-blue-39.png",
       "PackagePath": "staticwebassets\\static\\image\\jordan-air-force-1-blue-39.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\logo.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\logo.png",
       "PackagePath": "staticwebassets\\static\\image\\logo.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\mlb-chunky-white-38.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\mlb-chunky-white-38.png",
       "PackagePath": "staticwebassets\\static\\image\\mlb-chunky-white-38.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\new-balance-classic-green-37.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\new-balance-classic-green-37.png",
       "PackagePath": "staticwebassets\\static\\image\\new-balance-classic-green-37.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\nike-air-force-1-red-40.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\nike-air-force-1-red-40.png",
       "PackagePath": "staticwebassets\\static\\image\\nike-air-force-1-red-40.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\nike-air-force-1-white-38.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\nike-air-force-1-white-38.png",
       "PackagePath": "staticwebassets\\static\\image\\nike-air-force-1-white-38.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\skechers-black-12.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\skechers-black-12.png",
       "PackagePath": "staticwebassets\\static\\image\\skechers-black-12.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\ultra-boost-white-37.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\ultra-boost-white-37.png",
       "PackagePath": "staticwebassets\\static\\image\\ultra-boost-white-37.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\vans-classic-black-41.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\vans-classic-black-41.png",
       "PackagePath": "staticwebassets\\static\\image\\vans-classic-black-41.png"
     },
     {
-      "Id": "D:\\Downloads\\VS Code community\\DoAn\\shoe-store\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\vans-classic-slip-on-white-41.png",
+      "Id": "E:\\source\\repo\\Web_TMDT\\WebTMDT\\ShoeStore\\wwwroot\\static\\image\\vans-classic-slip-on-white-41.png",
       "PackagePath": "staticwebassets\\static\\image\\vans-classic-slip-on-white-41.png"
     },
     {

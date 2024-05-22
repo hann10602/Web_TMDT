@@ -1,11 +1,11 @@
 ﻿@page
 @using System.Data.SqlClient;
+@using ShoeStore.DB
 @{
 	try
 	{
 		string id = Request.Query["id"];
-		string connectionString = "Data Source=DESKTOP-J61PUVN;Initial Catalog=WebTMDT;Integrated Security=True";
-		using (SqlConnection connection = new SqlConnection(connectionString))
+		using (SqlConnection connection = ShopDBContext.GetSqlConnection())
 		{
 			connection.Open();
 			string sql = "DELETE from bill WHERE product_id=@id";

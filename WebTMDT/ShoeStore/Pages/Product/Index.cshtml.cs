@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.VisualBasic;
+using ShoeStore.DB;
 using System.Data.SqlClient;
 
 namespace ShoeStore.Pages.Product
@@ -17,8 +18,7 @@ namespace ShoeStore.Pages.Product
 			String productId = Request.Query["id"];
 			try
 			{
-				string connectionString = "Data Source=DESKTOP-J61PUVN;Initial Catalog=WebTMDT;Integrated Security=True";
-				using (SqlConnection connection = new SqlConnection(connectionString))
+				using (SqlConnection connection = ShopDBContext.GetSqlConnection())
 				{
 					connection.Open();
 					string sql = "SELECT * FROM login WHERE id = 1";

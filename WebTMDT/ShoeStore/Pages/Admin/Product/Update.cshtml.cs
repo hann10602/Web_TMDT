@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using ShoeStore.DB;
 using System.Data.SqlClient;
 
 namespace ShoeStore.Pages.Admin.Product
@@ -19,8 +20,7 @@ namespace ShoeStore.Pages.Admin.Product
 			String id = Request.Query["id"];
 			try
 			{
-				string connectionString = "Data Source=DESKTOP-J61PUVN;Initial Catalog=WebTMDT;Integrated Security=True";
-				using (SqlConnection connection = new SqlConnection(connectionString))
+				using (SqlConnection connection = ShopDBContext.GetSqlConnection())
 				{
 					connection.Open();
 					string sql = "SELECT * FROM color";
@@ -120,8 +120,7 @@ namespace ShoeStore.Pages.Admin.Product
 					return;
 				}
 
-				string connectionString = "Data Source=DESKTOP-J61PUVN;Initial Catalog=WebTMDT;Integrated Security=True";
-				using (SqlConnection connection = new SqlConnection(connectionString))
+				using (SqlConnection connection = ShopDBContext.GetSqlConnection())
 				{
 
 					connection.Open();

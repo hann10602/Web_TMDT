@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using ShoeStore.DB;
 using System.Data.SqlClient;
 
 namespace ShoeStore.Pages.Auth
@@ -24,10 +25,8 @@ namespace ShoeStore.Pages.Auth
                     return;
                 }
 
-                string connectionString = "Data Source=DESKTOP-J61PUVN;Initial Catalog=WebTMDT;Integrated Security=True";
-                using (SqlConnection connection = new SqlConnection(connectionString))
+                using (SqlConnection connection = ShopDBContext.GetSqlConnection())
                 {
-
                     connection.Open();
                     string sql = "SELECT * FROM users WHERE username = '" + userEntity.Username + "'";
                     using (SqlCommand command = new SqlCommand(sql, connection))
